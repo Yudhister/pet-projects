@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y\ w\ h\ c\ wd
+comment0.target=Bat(int,\ int,\ int,\ int,\ java.awt.Color,\ int)
+comment1.params=x
+comment1.target=void\ setPosition(int)
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+numComments=3

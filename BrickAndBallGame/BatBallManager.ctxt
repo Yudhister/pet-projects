@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=b1\ b2\ width\ height
+comment0.target=BatBallManager(Ball,\ Bat,\ int,\ int)
+comment1.params=
+comment1.target=void\ update()
+numComments=2

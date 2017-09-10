@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x\ y\ w\ h\ c\ t
+comment0.target=Brick(int,\ int,\ int,\ int,\ java.awt.Color,\ int)
+comment1.params=x1\ y1\ x2\ y2
+comment1.target=boolean\ intersect(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ hit()
+comment3.params=x1\ y1\ x2\ y2
+comment3.target=int\ edge(int,\ int,\ int,\ int)
+comment4.params=
+comment4.target=void\ update()
+comment5.params=g
+comment5.target=void\ paint(java.awt.Graphics)
+numComments=6

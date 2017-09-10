@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bonus()
+comment1.params=br
+comment1.target=void\ setPosition(Bricks)
+comment2.params=x1\ y1\ x2\ y2
+comment2.target=int\ edge(int,\ int,\ int,\ int)
+comment3.params=x1\ y1\ x2\ y2
+comment3.target=boolean\ intersect(int,\ int,\ int,\ int)
+comment4.params=
+comment4.target=void\ start()
+comment5.params=
+comment5.target=void\ suspend()
+comment6.params=
+comment6.target=void\ update()
+comment7.params=g
+comment7.target=void\ paint(java.awt.Graphics)
+numComments=8
