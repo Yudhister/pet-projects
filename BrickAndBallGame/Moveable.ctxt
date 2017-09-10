@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=void\ setPosition(int,\ int)
+comment1.params=x\ y
+comment1.target=void\ setVelocity(int,\ int)
+comment2.params=
+comment2.target=void\ updatePosition()
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ getFill()
+comment1.params=b
+comment1.target=void\ setFill(boolean)
+comment2.params=c
+comment2.target=void\ setColor(java.awt.Color)
+comment3.params=
+comment3.target=java.awt.Color\ getColor()
+numComments=4

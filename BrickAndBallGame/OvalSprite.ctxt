@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=w\ h\ c
+comment0.target=OvalSprite(int,\ int,\ java.awt.Color)
+comment1.params=x\ y\ w\ h\ c
+comment1.target=OvalSprite(int,\ int,\ int,\ int,\ java.awt.Color)
+comment2.params=
+comment2.target=void\ update()
+comment3.params=g
+comment3.target=void\ paint(java.awt.Graphics)
+numComments=4

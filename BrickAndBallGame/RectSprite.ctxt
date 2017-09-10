@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=w\ h\ c
+comment0.target=RectSprite(int,\ int,\ java.awt.Color)
+comment1.params=x\ y\ w\ h\ c
+comment1.target=RectSprite(int,\ int,\ int,\ int,\ java.awt.Color)
+comment2.params=
+comment2.target=void\ update()
+comment3.params=g\ risen
+comment3.target=void\ paint3D(java.awt.Graphics,\ boolean)
+comment4.params=g
+comment4.target=void\ paint(java.awt.Graphics)
+comment5.params=g\ arcW\ arcH
+comment5.target=void\ paintRound(java.awt.Graphics,\ int,\ int)
+numComments=6

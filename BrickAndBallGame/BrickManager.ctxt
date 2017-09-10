@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=l\ width\ height
+comment0.target=Brick[]\ loadLevel(int,\ int,\ int)
+numComments=1
